@@ -1,0 +1,5 @@
+Cascada: Es un modelo rígido y secuencial, donde el proyecto se desarrolla por etapas. Primero se termina una fase y luego se pasa a la siguiente. Generalmente, el producto se entrega completamente terminado al final, por lo que realizar cambios durante el desarrollo puede ser complicado y costoso.
+
+Incremental: El software se desarrolla por fases o incrementos. En cada fase se agrega una parte nueva de funcionalidad al sistema. De esta manera, se pueden entregar versiones funcionales progresivamente, incorporando nuevas características y actualizaciones en cada incremento.
+
+Ágil: Es un modelo flexible e iterativo, donde el software se desarrolla en ciclos cortos. Se entrega una primera versión funcional y, a partir de la retroalimentación de los usuarios, se realizan mejoras, correcciones y nuevas funcionalidades de manera continua.
